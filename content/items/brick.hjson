@@ -5,4 +5,4 @@ cost: 0.5
 alwaysUnlocked: true
 color: a8442c
 research: lead
-hiddenOnPlanets: [serpulo, erekir]
+hiddenOnPlanets: [erekir]
