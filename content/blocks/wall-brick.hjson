@@ -1,5 +1,5 @@
 type: StaticWall
-name: Ferrinite Wall
+name: Brick Wall
 description: "Contains traces of Ferrinite which can be mined using specialized means."
 attributes: {
   brick: 1
