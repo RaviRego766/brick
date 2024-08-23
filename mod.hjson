@@ -1,0 +1,8 @@
+{
+    "name": "brick-item",
+    "displayName": "[#A8442C]Brick",
+    "author": "Ravi",
+    "description": "Added Brick Contents",
+    "version": "1.0"
+    "minGameVersion": 136
+}
