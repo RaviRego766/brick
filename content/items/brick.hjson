@@ -1,0 +1,8 @@
+name: Brick
+description: "A like material. Seemingly hardened sand or stone. Used in basic building."
+hardness: 0.75
+cost: 0.5
+alwaysUnlocked: true
+color: a8442c
+research: lead
+hiddenOnPlanets: [serpulo, erekir]
