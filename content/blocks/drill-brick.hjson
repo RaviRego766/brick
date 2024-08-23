@@ -1,0 +1,16 @@
+type: WallCrafter
+name: Drill Brick
+description: Mines Ferrinite slowly from Ferrinite walls. Does not work on Aged Ferrinite walls. 
+size: 2
+category: production
+research: lead
+requirements: [
+  brick/20
+]
+drillTime: 240
+output: brick
+attribute: brick
+ambientSound: drill
+ambientSoundVolume: 0.08
+alwaysUnlocked: true
+squareSprite: false
